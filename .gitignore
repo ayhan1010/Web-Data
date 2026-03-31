@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environnement
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Logs
+*.log

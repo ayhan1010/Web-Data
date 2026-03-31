@@ -13,12 +13,8 @@ A full pipeline for Knowledge Graph Construction, Alignment, Reasoning, KGE and 
 ```
 project-root/
 ├─ src/
-│  ├─ crawl/        # Web crawler and cleaning
-│  ├─ ie/           # Named Entity Recognition (NER)
-│  ├─ kg/           # RDF graph construction and ontology
-│  ├─ reason/       # SWRL reasoning with OWLReady2
-│  ├─ kge/          # Knowledge Graph Embeddings (TransE, DistMult)
-│  └─ rag/          # RAG pipeline (NL→SPARQL, self-repair, CLI)
+│  ├─ webdataa.py/        
+|  └─ webdataa.ipynb/         
 ├─ data/
 │  ├─ samples/
 │  └─ README.md

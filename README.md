@@ -171,11 +171,11 @@ jupyter notebook notebooks/rag_demo.ipynb
 
 The CLI chatbot will start:
 ```
-🤖 RAG Chatbot (type 'quit' to exit)
+ RAG Chatbot (type 'quit' to exit)
 
 You: Tell me about Alenka Doulain
-📊 KB Context: Entity: Alenka Doulain | type: GPE | locatedIn: France
-🤖 Bot: Alenka Doulain is a geopolitical entity located in France.
+ KB Context: Entity: Alenka Doulain | type: GPE | locatedIn: France
+ Bot: Alenka Doulain is a geopolitical entity located in France.
 ```
 
 ---
